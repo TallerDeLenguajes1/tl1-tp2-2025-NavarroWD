@@ -13,3 +13,5 @@ for(i = 0;i<N; i++){
     printf("%f \n", *(vt + i));
 }
 }
+
+// go 
